@@ -9,7 +9,7 @@ $(document).ready(function(){
 function yes(){
 	Swal.fire({
   	  showConfirmButton: false,
-	  title: 'Por supuesto que me quedaré contigo. Sin importar lo que suceda. Por siempre y para siempre 😊',
+	  title: 'Por supuesto que me quedaré contigo. Sin importar lo que suceda. por siempre y para siempre 😊',
 	  width: 400,
 	  padding: '3em',
 	  background: '#fff url(images/background.jpg)',
