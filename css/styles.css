@@ -1,0 +1,36 @@
+*{
+        margin: 0px;
+        padding: 0px;
+    }
+    body{
+        background: #fcfcfc;
+    }
+    .container {
+        margin: auto;
+        width: 90%;
+        margin-top: 20%;
+        text-align: center;
+    }
+    .options p {
+        background: #ec407a;
+        display: initial;
+        padding: 12px;
+        color: #ffffff;
+        border: solid;
+        border-radius: 5px;
+        border-width: 2px;
+        border-color: #b4004e;
+        font-weight: bold;
+    }
+    p.op1 {
+        position: absolute;
+        top: 55%;
+        left: 40%;
+        width: 100px;
+    }
+    p.op2{
+        position: absolute;
+        top: 55%;
+        left: 51%;
+        width: 100px;
+    }
